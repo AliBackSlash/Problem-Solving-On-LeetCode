@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
