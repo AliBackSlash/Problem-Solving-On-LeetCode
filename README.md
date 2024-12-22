@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0013-roman-to-integer) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
