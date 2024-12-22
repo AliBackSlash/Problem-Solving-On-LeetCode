@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0013-roman-to-integer) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
