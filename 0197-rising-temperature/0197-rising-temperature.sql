@@ -1,0 +1,2 @@
+/* Write your T-SQL query statement below */
+select  id from Weather where temperature > (select temperature from Weather as previous where previous.recordDate     = dateadd(Day,-1,Weather.recordDate    )) 
