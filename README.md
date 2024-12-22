@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0035-search-insert-position) |
+| [0605-can-place-flowers](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
