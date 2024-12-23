@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2087-confirmation-rate) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
