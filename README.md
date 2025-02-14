@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
