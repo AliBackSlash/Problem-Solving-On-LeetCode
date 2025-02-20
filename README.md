@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
