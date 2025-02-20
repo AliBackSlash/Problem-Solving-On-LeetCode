@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3429-special-array-i](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
