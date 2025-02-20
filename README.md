@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2428-equal-row-and-column-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2428-equal-row-and-column-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -163,9 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
