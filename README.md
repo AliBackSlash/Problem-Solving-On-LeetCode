@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
 | ------- |
