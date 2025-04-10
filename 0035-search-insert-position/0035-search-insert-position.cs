@@ -1,22 +1,20 @@
 public class Solution {
     public int SearchInsert(int[] nums, int target)
  {
-     int length = nums.Length;
-     if (length == 0) return 0;
+ int Start = 0, End = nums.Length - 1, midlle = -1;
 
+ while (Start <= End)
+ {
+     midlle = Start + (End - Start) / 2;
 
-     for (short index = 0; nums.Length > index; index++)
-     {
-
-         if (nums[index] == target)
-             return index;
-         if (nums[index] > target)
-             return index;
-     }
-
-     if (nums[length-1] < target)
-         return length;
-
-     return -1;
+     if(nums[midlle] == target)
+         return midlle;
+     else if(target  > nums[midlle])
+         Start = midlle + 1;
+     else
+         End = midlle - 1;
+    
+ }
+ return Start;
  }
 }
