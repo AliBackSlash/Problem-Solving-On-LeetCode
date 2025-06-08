@@ -1,31 +1,32 @@
 public class Solution 
 {
-    bool IsAVowelLetter(char  letter)
-{
-    //The vowels are 'a', 'e', 'i', 'o', and 'u'
-    return letter == 'a' || letter =='e'|| letter == 'i' || letter =='o'|| letter == 'u';
-}
-List<int> ReturnTheIndexesOfvowelsLetters(string s)
-{
-    List<int > indexies = new List<int>();
-    s=s.ToLower();
-    for (int i = 0; i < s.Length; i++)
-    {
-        if (IsAVowelLetter(s[i]))
-            { indexies.Add(i); }
-    }    
-    return indexies;
-}
-public string ReverseVowels(string s)
-{
-    StringBuilder newS = new StringBuilder();
-    newS.Append(s);
+     bool IsAVowelLetter(char letter)
+ {
+     //The vowels are 'a', 'e', 'i', 'o', and 'u'
+     return letter == 'a' || letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u'||letter == 'A' || letter == 'E' || letter == 'I' || letter == 'O' || letter == 'U';
+ }
+ public string ReverseVowels(string s)
+ {
+     int Right = s.Length - 1;
+     int Left = 0;
+     char[] ar = s.ToArray();
+     while (Right > Left)
+     {
+         if (IsAVowelLetter(ar[Left]))
+         {
+             if (IsAVowelLetter(ar[Right]))
+             {
+                 (ar[Left], ar[Right]) = (ar[Right], ar[Left]);
+                 Right--;
+                 Left++;
+             }
+             else
+                 Right--;
+         }
+         else
+             Left++;
+     }
 
-    List<int> Indexies = ReturnTheIndexesOfvowelsLetters(s);
-    for (int i = 0; i < Indexies.Count; i++)
-    {
-        newS[Indexies[i]] = s[Indexies[Indexies.Count - 1 - i]];
-    }
-    return newS.ToString();
-}
+     return string.Join("",ar);
+ }
 }
