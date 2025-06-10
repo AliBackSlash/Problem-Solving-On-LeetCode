@@ -2,26 +2,17 @@ public class Solution
 {
     public string ReverseWords(string s)
  {
-     s = s.Trim();
+    
+            StringBuilder reWordes = new StringBuilder();
 
- List<string> strings = new List<string>();
- strings = s.Split(' ').ToList();
- StringBuilder Word = new StringBuilder();
+            var lis = s.Split(" ",StringSplitOptions.RemoveEmptyEntries);
 
- strings.RemoveAll((Sep) => string.IsNullOrEmpty(Sep));
- int Length = strings.Count;
- int LastIndex = Length;
-
- for (int i = 0; i < strings.Count; i++)
- {
-     
-     Word.Append(strings[--LastIndex]);
-
-     if (i + 1 < Length)
-         Word.Append(" ");
-
- }
-
- return Word.ToString();
+            for (int i = lis.Length-1; i >= 0; i--)
+            {
+                reWordes.Append(lis[i]);
+                reWordes.Append(' ');
+            }
+           
+            return reWordes.ToString().Trim();
  }
 }
