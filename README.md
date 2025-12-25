@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3429-special-array-i](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0605-can-place-flowers) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Database
 |  |
 | ------- |
