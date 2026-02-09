@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/0605-can-place-flowers) |
+| [1382-balance-a-binary-search-tree](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
@@ -203,4 +204,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AliBackSlash/Problem-Solving-On-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
